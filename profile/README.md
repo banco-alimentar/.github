@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá👋
+
+🙋‍♀️ Os bancos alimentares são Instituições Particulares de Solidariedade Social que lutam contra o desperdício de produtos alimentares.
+🌈 Estamos à procura de voluntários com conhecimentos de programacao e design para ajudar em diversos projectos
+👩‍💻 O projecto mais activo é o [Alimente Esta Ideia](https://www.alimentestaideia.pt/) com código aberto https://github.com/banco-alimentar/alimentestaideia.pt
+🍿 Veja o site do [Banco Alimentar](https://www.bancoalimentar.pt/) 
+🧙 Ajude :)
 
 <!--
 
